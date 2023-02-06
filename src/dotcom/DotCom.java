@@ -1,4 +1,4 @@
-package dotcom;
+package src.dotcom;
 
 import java.util.ArrayList;
 

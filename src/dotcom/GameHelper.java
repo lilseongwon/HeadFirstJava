@@ -1,4 +1,4 @@
-package dotcom;
+package src.dotcom;
 
 import java.io.BufferedReader;
 import java.io.IOException;
